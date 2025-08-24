@@ -12,6 +12,7 @@ web-build/
 *-env.d.ts
 
 # Android
+android/
 android/app/debug.keystore
 android/app/build/
 android/build/
