@@ -12,12 +12,10 @@ web-build/
 *-env.d.ts
 
 # Android
-android/
 android/app/debug.keystore
 android/app/build/
 android/build/
 android/.gradle/
-android/gradle/wrapper/gradle-wrapper.jar
 android/local.properties
 
 # iOS
