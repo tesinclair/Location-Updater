@@ -83,7 +83,7 @@ export default function App() {
     const saveImageWithCoords = async (coords) => {
         try {
             const newPath = await ExifModule.writeGpsToImage(
-                image.uri.replace("file://", ""),
+                image.uri,
                 coords.latitude,
                 coords.longitude
             );
