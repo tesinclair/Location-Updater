@@ -60,12 +60,5 @@ dist/
 .env.production.local
 
 # Generated assets (keep source assets)
-android/app/src/main/res/drawable-hdpi/splashscreen_logo.png
-android/app/src/main/res/drawable-mdpi/splashscreen_logo.png
-android/app/src/main/res/drawable-xhdpi/splashscreen_logo.png
-android/app/src/main/res/drawable-xxhdpi/splashscreen_logo.png
-android/app/src/main/res/drawable-xxxhdpi/splashscreen_logo.png
-android/app/src/main/res/mipmap-*/ic_launcher*.webp
-
 ios/locationupdater/Images.xcassets/AppIcon.appiconset/App-Icon-1024x1024@1x.png
 ios/locationupdater/Images.xcassets/SplashScreenLogo.imageset/image*.png
