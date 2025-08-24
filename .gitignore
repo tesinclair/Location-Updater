@@ -1,0 +1,72 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native / Expo
+.expo/
+dist/
+web-build/
+.expo-shared/
+*-env.d.ts
+
+# Android
+android/app/debug.keystore
+android/app/build/
+android/build/
+android/.gradle/
+android/gradle/wrapper/gradle-wrapper.jar
+android/local.properties
+
+# iOS
+ios/
+ios/Pods/
+ios/*.xcworkspace/
+ios/*.xcarchive/
+ios/build/
+*.ipa
+*.dSYM.zip
+
+# VS Code
+.vscode/settings.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build outputs
+build/
+dist/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Generated assets (keep source assets)
+android/app/src/main/res/drawable-hdpi/splashscreen_logo.png
+android/app/src/main/res/drawable-mdpi/splashscreen_logo.png
+android/app/src/main/res/drawable-xhdpi/splashscreen_logo.png
+android/app/src/main/res/drawable-xxhdpi/splashscreen_logo.png
+android/app/src/main/res/drawable-xxxhdpi/splashscreen_logo.png
+android/app/src/main/res/mipmap-*/ic_launcher*.webp
+
+ios/locationupdater/Images.xcassets/AppIcon.appiconset/App-Icon-1024x1024@1x.png
+ios/locationupdater/Images.xcassets/SplashScreenLogo.imageset/image*.png
